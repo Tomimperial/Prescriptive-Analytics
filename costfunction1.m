@@ -1,0 +1,11 @@
+clear
+load('matlabgrad.mat')
+Just(xmain)
+load('matlabn.mat')
+Just(xmain)
+load('matlabpolak.mat')
+Just(xmain)
+load('matlabbfgs.mat')
+Just(xmain)
+load('matlabsim.mat')
+Just(xmain)
